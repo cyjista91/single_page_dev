@@ -1,1 +1,1 @@
-Witam to mój pierwszy projekt
+Projekt git przy użyciu aplikacji SmartGit
