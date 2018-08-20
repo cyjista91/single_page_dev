@@ -1,0 +1,9 @@
+
+@media (max-width: 768px){
+	.padding_zero{
+		padding: 0!important;
+	}
+	.block_image{
+		min-height: 300px
+	}
+}
